@@ -12,7 +12,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🌱 Currently learning **DSA, Web Development & Python**
-- 🔨 Building: [Solo Travel App](https://solo-travel-app-delta.vercel.app) — a location-based travel PWA
+- 🔨 Building: [Wanderer 🌍](https://solo-travel-delta.vercel.app/) — a location-based travel PWA
 - 💬 Ask me about **Python, HTML/CSS, JavaScript**
 - 📫 Reach me at: insta 18._nishant
 - 📍 Phagwara, Punjab, India
