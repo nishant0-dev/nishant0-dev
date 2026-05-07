@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">CS Student | Python Developer | Building Real Things</h3>
+<h1 align="center">Hi 👋, I'm Nishant Mishra</h1>
+<h3 align="center">CS Student | Python Developer | Building Real Things | Code. Create. Scale</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishant0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -36,7 +36,7 @@
 > A Progressive Web App (PWA) that shows nearby places based on GPS location, with bucket list tracking, visit history, and travel challenges.
 > 
 > **Tech:** HTML · TypeScript · CSS · PWA · Geolocation API  
-> **Live:** [solo-travel-app-delta.vercel.app](https://solo-travel-app-delta.vercel.app)
+> **Live:** [solo-travel-app-delta.vercel.app](https://solo-travel-delta.vercel.app/)
 
 ---
 
